@@ -12,6 +12,6 @@ bower install jquery-rotate
 ## Usage
 
 ```javascript
-$('#element').rotate(90); // rotate element to 90 degree
+$('#element').rotate(90); // rotate element to 90 degrees
 $('#element').rotate(); // random rotate
 ```
