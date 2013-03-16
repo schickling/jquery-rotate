@@ -12,7 +12,7 @@
 			var $this = $(this);
 
 			// make deg random if not set
-			if (!deg) {
+			if (deg === null) {
 				deg = Math.floor(Math.random() * 359);
 			}
 
