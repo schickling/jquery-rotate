@@ -3,9 +3,9 @@ jquery-rotate
 
 Very lightweight jquery rotate plugin using CSS 3 Transformation
 
-# Usage
+## Usage
 
 ```javascript
 $('#element').rotate(90); // rotate by 90 degree
-$('#element').rotate(0); // random rotate
+$('#element').rotate(); // random rotate
 ```
