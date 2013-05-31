@@ -2,6 +2,6 @@
   "name": "jquery-rotate",
   "version": "0.1.0",
   "dependencies": {
-    "jquery": null
+    "jquery": ">=1.9.0"
   }
 }
